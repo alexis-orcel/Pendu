@@ -1,1 +1,1 @@
-"programming" , "python" , "happy" , "acajou" , "hormis" , "rugby" , "balai" , "banjo" , "jambe" , "poire" , "prune" , "taupe" , "maman" , "cajou" , "usuel" , "pontil" , "plateforme"
+"hello" , "python" , "camion" , "chien" , "levier" , "ballon" , "fromage" , "rond" , "poisson" , "abricot" , "soleil" , "chat" , "code" , "java" , "plateforme" , "balle" , "voiture"
